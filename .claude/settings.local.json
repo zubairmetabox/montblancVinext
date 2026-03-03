@@ -1,0 +1,14 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(git clone https://github.com/zubairmetabox/montblancVinext.git c:/dev/montblanc-Vinext)",
+      "Bash(npm show vinext)",
+      "Bash(npm show vinxi)",
+      "Bash(npm show vinext --json)",
+      "Bash(npm show vinext@0.0.18 --json)",
+      "Bash(npm install)",
+      "Bash(npm run dev)",
+      "Bash(curl -si http://localhost:3000/)"
+    ]
+  }
+}
